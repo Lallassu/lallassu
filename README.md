@@ -1,2 +1,21 @@
-![lallassu stats](https://github-readme-stats.vercel.app/api?username=lallassu&count_private=true&show_icons=true&theme=synthwave&custom_title=Stats&include_all_commits=true&card_width=300px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lallassu&layout=compact&langs_count=20&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lallassu#gh-light-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lallassu&theme=github" />
+</a>
+<a href="https://github.com/lallassu#gh-dark-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lallassu&theme=github_dark" />
+</a>
+
+<a href="https://github.com/lallassu#gh-light-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lallassu&theme=github" />
+</a>
+<a href="https://github.com/lallassu#gh-dark-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lallassu&theme=github_dark" />
+</a>
+
+
+<a href="https://github.com/lallassu#gh-light-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lallassu&theme=github" />
+</a>
+<a href="https://github.com/lallassu#gh-dark-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lallassu&theme=github_dark" />
+</a>
